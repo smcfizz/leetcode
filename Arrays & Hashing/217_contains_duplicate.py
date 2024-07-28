@@ -1,5 +1,6 @@
 from typing import List
 
+
 # https://leetcode.com/problems/contains-duplicate/description/
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
